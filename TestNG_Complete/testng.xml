@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Failed_Case1.TestNGExampleTests"/>
+      <class name="sprint1.day1"/>
+      <class name="sprint1.day2"/>
+      <class name="parameter.DataProvider"/>
+      <class name="groups.Groups2"/>
+      <class name="parameter.Pack1"/>
+      <class name="groups.Groups1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
