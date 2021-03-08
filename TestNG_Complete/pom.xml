@@ -61,7 +61,7 @@
 </dependency>   
 </dependencies>
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src/bin</sourceDirectory>
     
     <testSourceDirectory>{basedir}/path/to/test/classe</testSourceDirectory>
     <plugins>
