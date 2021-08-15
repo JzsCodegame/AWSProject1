@@ -63,7 +63,7 @@
   <build>
     <sourceDirectory>src/bin</sourceDirectory>
     
-    <testSourceDirectory>{basedir}/path/to/test/classe</testSourceDirectory>
+    <testSourceDirectory>{basedir}/path/to/test/classes</testSourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
